@@ -6,7 +6,6 @@ const Switch = () => {
 
     const {theme, toggleTheme} = useTheme();
 
-    console.log("from navbar", theme);
 
   return (
     <StyledWrapper>

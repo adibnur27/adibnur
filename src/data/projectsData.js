@@ -21,7 +21,7 @@ export const projectsData = [
     description: "descriptionProject2",
     tools: "toolsProject2",
     duration: "durationProject2",
-    file: "/files/ug-muro.pdf",
+    file: "/files/ug-muro.pdf  ",
     buttonProject: "buttonProject2",
     buttonDownload: "buttonDownload2",
     image: "imageProject2",
